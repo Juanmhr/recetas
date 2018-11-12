@@ -3,4 +3,5 @@ Sal
 
 
 Batimos
-a la serten
+Una gota de aceite
+a la sarten
